@@ -13,4 +13,18 @@ O AcquaSmart é uma ferramenta poderosa que permite a comunicação e interaçã
 ## Como utilizar
 
 1. **Baixar:** Faço o download do arquivo disponível neste repositório.
-2. **Conectar aos sensores:** Certifique-se de que o dispositivo AcquaSensor esteja devidamente conectado ao seu computador. Abra o AcquaSmart e siga as instruções fornecidas para estabelecer a comunicação adequada (AcquaSmart - Manual de Instruções)
+2. **Conectar aos sensores:** Certifique-se de que o dispositivo AcquaSensor esteja devidamente conectado ao seu computador. Abra o AcquaSmart e siga as instruções fornecidas para estabelecer a comunicação adequada (AcquaSmart - Manual de Instruções).
+3. **Informações Adicionais:** Além da visualização de dados, você também pode acessar e atualizar informações sobre o sensor.
+
+
+## Suporte e Feedback
+
+Se você tiver alguma dúvida, problema ou sugestão sobre o AcquaSmartT, não hesite em entrar em contato conosco. Estamos aqui para ajudar a 
+garantir uma experiência satisfatória com o nosso software.
+
+Para obter suporte, envie um email para suporte@acquanativa.com.br.
+
+Esperamos que você aproveite o AcquaSmartT e que ele facilite suas atividades de monitoramento.
+
+Atenciosamente,
+Acqua Nativa Monitoramento Ambiental
