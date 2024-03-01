@@ -1,6 +1,6 @@
 # AcquaSmart
 
-O AcquaSmart é um softare desenvolvido pela Acqua Nativa Monitoramento Ambiental para fornecer uma solução de monitoramento e análise de dados dos produtos AcquaSensor TD, TE, TO, TP.
+O AcquaSmart é um softare desenvolvido pela Acqua Nativa Monitoramento Ambiental para fornecer uma solução de monitoramento e análise de dados dos produtos AcquaSensor TD, TE, TO, TP, T.
 
 ## Sobre o AcquaSmart
 
@@ -19,12 +19,12 @@ O AcquaSmart é uma ferramenta poderosa que permite a comunicação e interaçã
 
 ## Suporte e Feedback
 
-Se você tiver alguma dúvida, problema ou sugestão sobre o AcquaSmartT, não hesite em entrar em contato conosco. Estamos aqui para ajudar a 
+Se você tiver alguma dúvida, problema ou sugestão sobre o AcquaSmart, não hesite em entrar em contato conosco. Estamos aqui para ajudar a 
 garantir uma experiência satisfatória com o nosso software.
 
 Para obter suporte, envie um email para suporte@acquanativa.com.br.
 
-Esperamos que você aproveite o AcquaSmartT e que ele facilite suas atividades de monitoramento.
+Esperamos que você aproveite o AcquaSmart e que ele facilite suas atividades de monitoramento.
 
 Atenciosamente,
 Acqua Nativa Monitoramento Ambiental
