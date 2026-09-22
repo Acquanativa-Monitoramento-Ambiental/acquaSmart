@@ -19,8 +19,7 @@ Com ele você pode:
 Basta baixar e abrir.
 
 Na primeira execução o Windows pode mostrar o aviso **"O Windows protegeu o
-computador"** (SmartScreen), porque o executável não é assinado digitalmente.
-Clique em **Mais informações** e depois em **Executar assim mesmo**.
+computador"** (SmartScreen), clique em **Mais informações** e depois em **Executar assim mesmo**.
 
 Versões anteriores, incluindo a 1.05, continuam disponíveis em
 [Releases](https://github.com/Acquanativa-Monitoramento-Ambiental/acquaSmart/releases).
