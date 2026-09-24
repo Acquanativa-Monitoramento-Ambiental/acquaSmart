@@ -1,7 +1,7 @@
 # AcquaSmart
 
 O AcquaSmart é o software da Acqua Nativa Monitoramento Ambiental para testar,
-configurar e calibrar os sensores AcquaSensor (T, TD, TE, TO, TP e TDO) em
+configurar e calibrar os sensores AcquaSensor (T, TD, TE, TO, TP, TDO e CO2) em
 campo, pelo computador.
 
 Com ele você pode:
