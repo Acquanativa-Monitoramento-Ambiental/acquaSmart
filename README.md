@@ -48,5 +48,4 @@ janela, na primeira linha do log e na primeira linha de cada arquivo CSV.
 
 © Acqua Nativa Monitoramento Ambiental. Todos os direitos reservados.
 
-O AcquaSmart é distribuído gratuitamente aos clientes da Acqua Nativa para uso
-com os sensores AcquaSensor.
+O AcquaSmart é distribuído gratuitamente aos clientes da Acqua Nativa.
